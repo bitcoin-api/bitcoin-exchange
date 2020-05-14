@@ -1,6 +1,6 @@
 {
   "name": "bitcoin-exchange",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Bitcoin Exchange by Bitcoin-Api.io",
   "main": "index.js",
   "scripts": {
