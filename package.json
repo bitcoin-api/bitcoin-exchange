@@ -1,0 +1,24 @@
+{
+  "name": "bitcoin-exchange",
+  "version": "1.0.0",
+  "description": "A Bitcoin Exchange by Bitcoin-Api.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcoin-api/bitcoin-exchange.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "api",
+    "exchange"
+  ],
+  "author": "Michael Stecky-Efantis",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bitcoin-api/bitcoin-exchange/issues"
+  },
+  "homepage": "https://github.com/bitcoin-api/bitcoin-exchange#readme"
+}
